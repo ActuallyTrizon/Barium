@@ -20,9 +20,9 @@ Barium works to improve the overall performance of Minecraft by implementing fou
    Streamlines mathematical calculations performed by the game, thereby improving performance during complex computations.
 
 ## Technical Specifications
-- **Game Version Compatibility:** 1.16 and above  
-- **Operating System Compatibility:** Windows, MacOS, Linux  
-- **Required RAM:** Minimum 2GB (4GB recommended)
+- **Game Version Compatibility:** 1.21 and above  
+- **Operating System Compatibility:** Windows, MacOS, Linux, Android
+- **Required RAM:** Minimum 1GB (4GB recommended)
 - **Processor:** Dual-core CPU or better
 
 ## Installation Instructions
@@ -31,8 +31,9 @@ Barium works to improve the overall performance of Minecraft by implementing fou
    - On Windows: `C:\Users\YourUsername\AppData\Roaming\.minecraft\mods`  
    - On MacOS: `~/Library/Application Support/minecraft/mods`  
    - On Linux: `~/.minecraft/mods`
+   - On Android click `import mod`
 3. Place the downloaded Barium .jar file into the `mods` directory.
-4. Launch Minecraft with the Forge profile to enjoy the enhanced experience!
+4. Launch Minecraft with the Fabric instance to enjoy the enhanced experience!
 
 ## Developer Credit
 This mod was created and is maintained by **Trizon**.  
