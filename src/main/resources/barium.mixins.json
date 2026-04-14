@@ -1,0 +1,1 @@
+{"required": true,"minVersion": "0.8","package": "com.trizon.barium.mixin","compatibilityLevel": "JAVA_17","mixins": ["entity.AiBrainThrottleMixin","block.LeavesBlockMixin","network.PacketHandlingMixin","util.MathHelperMixin"],"client": [],"injectors": {"defaultRequire": 1}}
